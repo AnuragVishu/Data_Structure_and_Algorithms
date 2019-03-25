@@ -1,7 +1,7 @@
 # SEARCHING ALGORITHMS
 
 
-* Searching algorithms *, as the name suggests, are designed to check whether an element is present/   stored in any data structure and retreve it if the algorithm finds it. 
+ *Searching algorithms*, as the name suggests, are designed to check whether an element is present/   stored in any data structure and retreve it if the algorithm finds it. 
 There are two categories in which these algorithms can generally be classified:
 
  1. ### Sequencial Search
